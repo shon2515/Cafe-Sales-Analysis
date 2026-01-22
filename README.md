@@ -80,7 +80,7 @@ The dataset consists of transactional sales data with the following fields:
 ## 📈 Dashboard Features
 - KPI scorecards for quick performance overview  
 - Time-series charts for sales trends  
-- Bar charts for product and category performance  
+- Bar charts and pie charts for product and category performance  
 - Geographic analysis by state  
 - Interactive filters:
   - Date  

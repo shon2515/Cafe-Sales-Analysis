@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard – Looker Studio Project
+# 📊 Cafe Sales Performance – Looker Studio Project
 
 ## 📌 Project Overview
 This project analyzes sales transaction data stored in Google Sheets (CSV format) and visualized using Looker Studio to generate actionable business insights.  
@@ -10,7 +10,6 @@ The goal was to track sales performance, understand customer purchasing patterns
 - Analyze overall sales performance and revenue trends  
 - Calculate key business KPIs from transactional data  
 - Analyze sales by product, category, and state  
-- Track sales trends over time using order dates  
 - Build an interactive Looker Studio dashboard for decision-making  
 
 ---
@@ -37,6 +36,7 @@ The dataset consists of transactional sales data with the following fields:
 - Units Sold  
 - Unit Price  
 - Sales  
+<img width="1403" height="830" alt="{E27E3E8D-4157-446B-8F63-D0D5A5987BC7}" src="https://github.com/user-attachments/assets/d8b3312c-6e5d-4d7e-95b8-537d1b778b5b" />
 
 ---
 

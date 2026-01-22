@@ -66,6 +66,14 @@ The dataset consists of transactional sales data with the following fields:
 - Sales trends over time  
 - Product and category-level performance  
 - Geographic sales analysis by state  
+<img width="1204" height="710" alt="{3FB2848F-790E-48F1-88BF-F3297E92F82D}" src="https://github.com/user-attachments/assets/c0f122c4-5eea-45b3-a0ab-aa89902f4038" />
+
+
+<img width="1148" height="637" alt="{8B4AD3AA-26C8-4137-A6F8-6FEB5CAEFDF9}" src="https://github.com/user-attachments/assets/143fc61b-ea9b-4da3-879a-28e359abdbd7" />
+
+<img width="970" height="614" alt="{5C0CD087-A11C-47A9-AC24-0A7745ABD7F6}" src="https://github.com/user-attachments/assets/406c3dfa-de91-4a13-94f1-07119d78715a" />
+
+
 
 ---
 

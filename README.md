@@ -26,6 +26,12 @@ The goal was to track sales performance, understand customer purchasing patterns
 ---
 
 ## 🗂 Dataset Description
+
+## 📁 Source Data
+This dashboard is powered by Google Sheets data (publicly shared):
+
+🔗 https://docs.google.com/spreadsheets/d/1QJfZtrQpowc7Kj1uRZRGr9Rf98WcE-YmFn5VX4bXI8I/edit?usp=sharing
+
 The dataset consists of transactional sales data with the following fields:
 
 - Order ID  

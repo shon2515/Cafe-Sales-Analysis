@@ -91,18 +91,46 @@ The dataset consists of transactional sales data with the following fields:
 ---
 
 ## 💡 Key Insights
-- Sales are driven primarily by a small number of top-performing products  
-- Certain categories contribute a significant share of total revenue  
-- Strong regional differences in sales performance across states  
-- Average units per order indicate opportunities for upselling  
+
+- **Sales Performance:**  
+  Total revenue reached **$8.13K** across **962 orders**.  
+  The **Average Order Value ($8.45)** and **average order size (2.4 units)** are relatively low, indicating strong **upsell opportunities**.
+
+- **Category Performance:**  
+  Sales are almost evenly split between **Coffee (50.4%)** and **Tea (49.6%)**, creating ideal conditions for **cross-category promotions and bundle strategies**.
+
+- **Product Performance:**  
+  **Mystic Oolong** is the top-performing product with **1.8K units sold**, clearly leading the market.  
+  The **top 3 products** contribute a significant share of total sales, highlighting **sales concentration risk**.
+
+- **Geographic Performance:**  
+  **Georgia, Texas, and North Carolina** generate the highest sales.  
+  **Michigan and New York** underperform, suggesting potential **marketing, distribution, or demand issues**.
+
+- **Seasonal Trends:**  
+  A clear sales peak occurs in **December**, driven by the **holiday effect**.  
+  **September** records the lowest sales, indicating seasonal demand decline.  
+  A sharp increase from **November to December** emphasizes the importance of **pre-holiday planning**.
+
 
 ---
 
 ## 📌 Business Recommendations
-- Focus marketing efforts on high-performing products and regions  
-- Optimize inventory planning based on category demand  
-- Use regional insights to design targeted promotions  
-- Continuously monitor sales performance using the dashboard  
+
+### 🚀 Short-Term (Immediate)
+- Bundle Mystic Oolong with low-performing tea products to boost overall sales
+- Run short-term promotional campaigns around the Top 3 best-selling products
+- Launch localized marketing initiatives (discounts, free shipping) for Michigan and New York
+
+### 📈 Medium-Term
+- Expand the Oolong tea product line with new flavors or premium versions
+- Introduce Coffee & Tea combo or pairing products to encourage cross-selling
+- Increase Average Order Value (AOV) through checkout-level upsell offers
+
+### 🧠 Long-Term
+- Conduct deeper customer profiling in high-performing states
+- Use seasonal trends for inventory planning and demand forecasting
+- Implement a loyalty program to increase repeat purchases
 
 ---
 

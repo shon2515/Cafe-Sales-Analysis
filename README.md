@@ -63,6 +63,10 @@ The dataset consists of transactional sales data with the following fields:
 ---
 
 ## 📊 Dashboard Analysis
+
+## 🔗 Live Dashboard
+[View Interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/63a341e3-ac22-4e68-9320-b746b21909c4)
+
 - Sales trends over time  
 - Product and category-level performance  
 - Geographic sales analysis by state  
